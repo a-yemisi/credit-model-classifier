@@ -1,0 +1,3 @@
+pandas
+sikit-learn
+numpy
